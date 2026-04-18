@@ -1,0 +1,6 @@
+{
+  "name": "Sweet Delights Artisan Cake Shop",
+  "description": "A boutique artisan cake shop featuring handcrafted desserts, an AI Cake Concierge, and secure ordering with Google Auth and Firestore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
